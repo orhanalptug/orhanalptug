@@ -3,7 +3,7 @@
 Computer Engineering Student at Ankara University.
 
 **What I Do**
-* Primarily working with **C** and **Python**, focusing on Object-Oriented Programming (OOP), data structures, and algorithms.
+* Primarily working with **C** and **Python**, focusing on SQL, data structures, and algorithms.
 * Exploring technical concepts around student anonymity and data privacy.
 
 **In My Free Time...**
